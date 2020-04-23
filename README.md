@@ -2,7 +2,7 @@
 
 ServiceBusExample.WebApp is a simple ASP.NET Web Application which shows how to send message to Azure Service Bus Queue by submitting a form.
 Project was created as a part of blog post which contains detailed description:
-[Add message to Azure Service Bus from ASP.NET Web Application]()
+[Add message to Azure Service Bus from ASP.NET Web Application](https://jakubwajs.wordpress.com/2020/04/23/add-message-to-azure-service-bus-from-asp-net-web-application/)
 
 ## Getting Started
 
