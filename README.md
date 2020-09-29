@@ -1,4 +1,4 @@
-# Project Title
+# ServiceBusExample.WebApp
 
 ServiceBusExample.WebApp is a simple ASP.NET Web Application which shows how to send message to Azure Service Bus Queue by submitting a form.
 Project was created as a part of blog post which contains detailed description:
